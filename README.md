@@ -1,5 +1,5 @@
 <!-- Header animated line -->
-<img src="https://i.pinimg.com/1200x/88/62/71/8862716333e57a67d592694c068c1ca1.jpg">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Animated typing header -->
 <div align="center">
@@ -10,7 +10,7 @@
 
 <!-- Main profile GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/u2wg2uXJbHzkXkPphr/giphy.gif" width="480" height="322" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo4dHQxOTlma3k0cDl1cGQxMzBwOXpuM241bTJmNWF4Y2JhcXlpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2GxB62rDeoNghG/giphy.gif" width="480" height="322" />
 </div>
 
 <!-- Quote section -->
