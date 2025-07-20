@@ -15,7 +15,7 @@
 
 <!-- Quote section -->
 <div align="center">
-  <h3>"What are we if not a healthy mix of mistakes and dreams?" </h3>
+  <h3>"Re - T R Y" </h3>
 </div>
 
 <!-- Section divider -->
@@ -24,15 +24,15 @@
 <!-- GitHub Stats section -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center;">
   <!-- GitHub general stats -->
-  <img width="400" loading="lazy" style="max-width:100%; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api?username=Hades0078&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="400" loading="lazy" style="max-width:100%; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api?username=HVDES-808&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   
   <!-- Most used languages -->
-  <img width="400" loading="lazy" style="max-width:100%; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hades0078&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="400" loading="lazy" style="max-width:100%; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HVDES-808&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <!-- Activity graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hades0078&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HVDES-808&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 <!-- Section divider -->
@@ -52,7 +52,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   <!-- Footer quote -->
-  **"The question of logic is whether 2b | !2b"** - Jesse Jacob
+  **"The real question of logic is whether 2b | !2b"** - Jesse Jacob
   
   <!-- Footer animated line -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
