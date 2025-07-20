@@ -1,5 +1,5 @@
 <!-- Header animated line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.pinimg.com/1200x/88/62/71/8862716333e57a67d592694c068c1ca1.jpg">
 
 <!-- Animated typing header -->
 <div align="center">
