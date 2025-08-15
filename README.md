@@ -42,7 +42,7 @@
 
 <!-- Technology icons -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,python,java,cpp,typescript,express,nextjs,django,flask,mongodb,postgresql,mysql,aws,docker,kubernetes,git,vscode,figma,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,python,java,cpp,typescript,nextjs,postgresql,mysql,aws,docker,kubernetes,git,vscode,figma&perline=8" />
 </div>
 
 <!-- Footer section -->
