@@ -24,10 +24,10 @@
 <!-- GitHub Stats section -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center;">
   <!-- GitHub general stats -->
-  <img width="400" loading="lazy" style="max-width:100%; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api?username=HVDES-808&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="400" loading="lazy" style="max-width:100%; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api?username=sudohades&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   
   <!-- Most used languages -->
-  <img width="400" loading="lazy" style="max-width:100%; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HVDES-808&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="400" loading="lazy" style="max-width:100%; vertical-align: top;" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sudohades&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
 <!-- Activity graph -->
