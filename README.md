@@ -31,9 +31,11 @@
 </div>
 
 <!-- Activity graph -->
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HVDES-808&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+-->
 
 <!-- Section divider -->
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
