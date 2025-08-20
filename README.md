@@ -6,7 +6,7 @@
 <!-- Enhanced animated typing header with better fonts -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&lines=👋+Hello,+I'm+Jesse!;Welcome+to+my+Universe!;Let's+Build+Something+Amazing!&color=667eea&background=00000000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&lines=👋+Hello,+I'm+Jesse!;Welcome+to+my+Universe!;&color=667eea&background=00000000" />
   </h1>
 </div>
 
