@@ -22,7 +22,7 @@
 
 <!-- Enhanced quote section with better typography -->
 <div align="center" style="margin: 40px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=300&height=50&duration=3000&pause=2000&lines="Re+-+T+R+Y"&color=764ba2&background=00000000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=300&height=50&duration=3000&pause=2000&lines=Re+-+T+R+Y&color=764ba2&background=00000000" />
 </div>
 
 <!-- Neon-style divider -->
@@ -70,7 +70,7 @@
 
 <!-- Enhanced footer with better typography -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=18&center=true&vCenter=true&width=600&height=40&duration=5000&pause=2000&lines="The+real+question+of+logic+is+whether+2b+|+!2b";-+Jesse+Jacob&color=764ba2&background=00000000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=18&center=true&vCenter=true&width=600&height=40&duration=5000&pause=2000&lines=The+real+question+of+logic+is+whether+2b+|+!2b;-+Jesse+Jacob&color=764ba2&background=00000000" />
 </div>
 
 <!-- Final animated divider -->
