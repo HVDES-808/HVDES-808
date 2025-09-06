@@ -36,7 +36,7 @@
   <img width="420" loading="lazy" style="max-width:100%; vertical-align: top; border-radius: 15px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2);" src="https://github-readme-stats-salesp07.vercel.app/api?username=sudohades&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=15&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   
   <!-- Most used languages with matching theme -->
-  <img width="420" loading="lazy" style="max-width:100%; vertical-align: top; border-radius: 15px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2);" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sudohades&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&title_color=667eea&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+<!--  <img width="420" loading="lazy" style="max-width:100%; vertical-align: top; border-radius: 15px; box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2);" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sudohades&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&title_color=667eea&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" /> -->
 </div>
 
 <!-- GitHub Activity Graph -->
