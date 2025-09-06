@@ -56,11 +56,12 @@
 
 <!-- Technology icons with enhanced spacing -->
 <div align="center" style="margin: 30px 0;">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,python,java&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,java&theme=dark&perline=8" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=cpp,typescript,nextjs,postgresql,mysql,aws,docker,kubernetes&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,asm,postgresql,mysql,aws,docker,kubernetes&theme=dark&perline=8" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,vscode,figma&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=arch,ubuntu&theme=dark&perline=8" />
 </div>
 
 <!-- Animated wave divider bottom -->
